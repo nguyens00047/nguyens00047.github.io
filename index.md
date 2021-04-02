@@ -18,7 +18,7 @@ In case you need my [Github](https://github.com/nguyens00047), here it is!
 [Random-Quote](#####Random-Quote)
 [My-Hobbies](######My-Hobbies)
 
-If you would like to read more about anything, you can refer to this [document](docs/README.md)
+If you would like to read more about anything, you can refer to this [document](README.md)
 
 ##### My Hobbies
 - Dancing
