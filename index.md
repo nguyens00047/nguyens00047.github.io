@@ -17,6 +17,7 @@ In case you need my [Github](https://github.com/nguyens00047), here it is!
 [Introduction](##Introduction)
 [Random-Quote](#####Random-Quote)
 [My-Hobbies](######My-Hobbies)
+[Hobbies Enjoyment Level](#####Hobbies-Enjoyment-Level)
 
 If you would like to read more about anything, you can refer to this [document](README.md)
 
@@ -26,6 +27,11 @@ If you would like to read more about anything, you can refer to this [document](
 - Piano
 - Watching Shows
 
+##### Hobbies Enjoyment Level
+1. Dancing
+2. Cooking
+3. Piano
+4. Watching Shows
 ###### Foods I want to make
 - [x] Ramen
 - [ ] Friend Pork Cutlet with Curry
