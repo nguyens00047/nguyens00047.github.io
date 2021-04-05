@@ -28,5 +28,5 @@ If you would like to read more about anything, you can refer to this [document](
 
 ###### Foods I want to make
 - [x] Ramen
-- [] Friend Pork Cutlet with Curry
-- [] Crepes
+- [ ] Friend Pork Cutlet with Curry
+- [ ] Crepes
